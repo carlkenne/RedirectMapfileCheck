@@ -1,0 +1,4 @@
+Unneccessary reroute chain detected: toUrl1(#1) => toUrl3 => fromUrl1(#5)
+Unneccessary reroute chain detected: fromUrl1(#3) => toUrl1 => toUrl3(#1)
+Unneccessary reroute chain detected: fromUrl2(#4) => toUrl2 => toUrl9(#2)
+Unneccessary reroute chain detected: toUrl3(#5) => fromUrl1 => toUrl1(#3)
